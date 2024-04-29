@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Ubicacio">
+        <item>SUITE 1</item>
+        <item>SUITE 2</item>
+        <item>SUITE 3</item>
+        <item>PADDOCK CLUB</item>
+        <item>SKY VIEW LOUNGE</item>
+        <item>LLOTGER</item>
+        <item>GARDEN VILLAGE</item>
+        <item>HELIPORT VILLAGE</item>
+    </string-array>
+</resources>
